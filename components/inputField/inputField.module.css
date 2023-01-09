@@ -1,0 +1,13 @@
+.inputField input {
+  max-width: 100%;
+  height: 100%;
+  border: none;
+  border-bottom: 1px solid #000;
+  outline: none;
+  font-size: 1.5rem;
+  padding: 0.5rem;
+}
+
+.inputField input:focus {
+  border-bottom: 2px solid #000;
+}
